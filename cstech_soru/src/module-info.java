@@ -1,0 +1,2 @@
+module cstech_soru {
+}
